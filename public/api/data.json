@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Men's Laurel Wreath Print T-Shirt",
+    "description": "This stylish t-shirt features a laurel wreath print on the front, and is made from soft, comfortable material.",
+    "price": 29.99,
+    "category": "clothing",
+    "image": "/images/t-shirt.jpg",
+    "quantity": 10
+  },
+  {
+    "id": 2,
+    "name": "Disaar Vitamin C Face Serum 30 ML",
+    "description": "This face serum is packed with vitamin C and other nourishing ingredients to help brighten and hydrate your skin.",
+    "price": 14.99,
+    "category": "beauty",
+    "image": "/images/skin-care.jpg",
+    "quantity": 20
+  },
+  {
+    "id": 3,
+    "name": "iPhone 14",
+    "description": "The latest and greatest iPhone, with a stunning OLED display, powerful A16 chip, and all the features you could want in a smartphone.",
+    "price": 999.99,
+    "category": "electronics",
+    "image": "/images/iphone-14.jpg",
+    "quantity": 5
+  }
+]
