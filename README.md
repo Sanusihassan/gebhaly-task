@@ -22,4 +22,4 @@ npm run api
 
 This will start the express.js development server for the API. You can then access the API endpoints by sending requests to `http://localhost:5000`.
 
-Thank you for considering this code repository for the Gebhaly full-stack task. If you have any questions or feedback, please feel free to contact Sanusi.
+Thank you for considering this code repository for the Gebhaly full-stack task. If you have any questions or feedback, please feel free to contact [Sanusi](https://www.linkedin.com/in/sanusi-hassan-umar-343a6011a/).
