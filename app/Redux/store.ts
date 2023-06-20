@@ -1,8 +1,3 @@
-/**
- * this is my store i want a removeFromCart(itemId) function to remove item from cart
- * and i want a updateCartItemQuantity(itemId, quantity)
- */
-
 "use client";
 import { configureStore, createSlice, PayloadAction } from '@reduxjs/toolkit';
 
